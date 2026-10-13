@@ -1,0 +1,51 @@
+/* [project]/src/lib/cabinet_237277e8.module.css [app-client] (css) */
+@font-face {
+  font-family: cabinet;
+  src: url("../media/CabinetGrotesk_Regular-s.p.0khlxbyimg43h.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: cabinet;
+  src: url("../media/CabinetGrotesk_Medium-s.p.37_m-sp27bs4n.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: cabinet;
+  src: url("../media/CabinetGrotesk_Bold-s.p.1riyjlq4m8h7a.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: cabinet;
+  src: url("../media/CabinetGrotesk_Black-s.p.1uwqgl1_uybix.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: cabinet Fallback;
+  src: local(Arial);
+  ascent-override: 90.64%;
+  descent-override: 29.17%;
+  line-gap-override: 9.38%;
+  size-adjust: 95.99%;
+}
+
+.cabinet_237277e8-module__86IKCG__className {
+  font-family: cabinet, cabinet Fallback;
+}
+
+.cabinet_237277e8-module__86IKCG__variable {
+  --font-cabinet: "cabinet", "cabinet Fallback";
+}
+
+/*# sourceMappingURL=src_lib_cabinet_237277e8_module_css_1igg3k2-ikub5._.single.css.map*/

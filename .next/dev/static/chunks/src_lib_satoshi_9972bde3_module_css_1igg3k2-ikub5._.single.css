@@ -1,0 +1,83 @@
+/* [project]/src/lib/satoshi_9972bde3.module.css [app-client] (css) */
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_Regular-s.p.0dvfn5g0xv8bu.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_Italic-s.p.3utt6-une1eg0.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_Medium-s.p.1jgchyhj64537.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_MediumItalic-s.p.1_d1hamssfny2.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_Bold-s.p.2_-zzs2una4mm.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_BoldItalic-s.p.3c2ubw_s0sslz.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_Black-s.p.1_bicwjk2v12h.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url("../media/Satoshi_BlackItalic-s.p.0wzpmty8zl32s.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: satoshi Fallback;
+  src: local(Arial);
+  ascent-override: 102.23%;
+  descent-override: 24.29%;
+  line-gap-override: 10.12%;
+  size-adjust: 98.8%;
+}
+
+.satoshi_9972bde3-module__53UZpq__className {
+  font-family: satoshi, satoshi Fallback;
+}
+
+.satoshi_9972bde3-module__53UZpq__variable {
+  --font-satoshi: "satoshi", "satoshi Fallback";
+}
+
+/*# sourceMappingURL=src_lib_satoshi_9972bde3_module_css_1igg3k2-ikub5._.single.css.map*/

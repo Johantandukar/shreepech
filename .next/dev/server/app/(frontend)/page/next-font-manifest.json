@@ -1,0 +1,22 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/(frontend)/page": [
+      "static/media/5c8bbc89ca099f34-s.p.2qijkc4_gtkq0.woff2",
+      "static/media/CabinetGrotesk_Regular-s.p.0khlxbyimg43h.woff2",
+      "static/media/CabinetGrotesk_Medium-s.p.37_m-sp27bs4n.woff2",
+      "static/media/CabinetGrotesk_Bold-s.p.1riyjlq4m8h7a.woff2",
+      "static/media/CabinetGrotesk_Black-s.p.1uwqgl1_uybix.woff2",
+      "static/media/Satoshi_Regular-s.p.0dvfn5g0xv8bu.woff2",
+      "static/media/Satoshi_Italic-s.p.3utt6-une1eg0.woff2",
+      "static/media/Satoshi_Medium-s.p.1jgchyhj64537.woff2",
+      "static/media/Satoshi_MediumItalic-s.p.1_d1hamssfny2.woff2",
+      "static/media/Satoshi_Bold-s.p.2_-zzs2una4mm.woff2",
+      "static/media/Satoshi_BoldItalic-s.p.3c2ubw_s0sslz.woff2",
+      "static/media/Satoshi_Black-s.p.1_bicwjk2v12h.woff2",
+      "static/media/Satoshi_BlackItalic-s.p.0wzpmty8zl32s.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
